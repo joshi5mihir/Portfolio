@@ -27,7 +27,7 @@ Design and develop a responsive personal portfolio website. The intern is expect
     ```bash
     cd Portfolio
     ```
-3. Open "INDEX.html" in your browser to view the website.
+3. Open `INDEX.html` in your browser to view the website.
 
 ### Usage
 - Customize the content in `INDEX.html`, `STYLE.css`, and `SCRIPT.js` to personalize your portfolio.
@@ -37,4 +37,4 @@ Design and develop a responsive personal portfolio website. The intern is expect
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ### Contact
-For any inquiries, Please Contact [JOSHI MIHIR]("http://github.com/joshi5mihir")
+For any inquiries, Please Contact [JOSHI MIHIR]("http://github.in/joshi5mihir")
