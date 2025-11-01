@@ -36,5 +36,5 @@ Design and develop a responsive personal portfolio website. The intern is expect
 ### Contributing
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-### Contac
+### Contact
 For any inquiries, Please Contact [JOSHI MIHIR](http://github.in/joshi5mihir)
